@@ -1,6 +1,12 @@
 $azul: #035aa6;
+*{
+	font-family: "Myriad Pro";
+}
 .info{
 	margin-top: 20px;
+}
+.info:hover{
+	background-color: yellow;
 }
 
 img{
